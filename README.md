@@ -2,5 +2,5 @@
 90-Day AI Engineer Transformation Portfolio: Building LLM, RAG, and Agent Demos to land paid gigs.
 
 Goal: Become a deployable AI Engineer.<br>
-90-Day Overview: Start/End dates (23 Nov 2025 → 22 Feb 2026),  Core Stack (Python, LLM, RAG, etc.).
+90-Day Overview: Start/End dates (23 Nov 2025 → 22 Feb 2026),  Core Stack (Python, LLM, RAG, etc.).<br>
 Week 1 Plan: LLM Basics + Prompting.
